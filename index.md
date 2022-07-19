@@ -1,4 +1,4 @@
-[Программа "Информатика - алгоритмика" для 5-9классов](https://drive.google.com/file/d/1QNI_fr_gyAHeWWaVig9yL3kA7HJHKqV6/view)
+[Программа "Информатика - алгоритмика" для 5-9 классов](https://drive.google.com/file/d/1QNI_fr_gyAHeWWaVig9yL3kA7HJHKqV6/view)
 
 
 5 класс. Информатика. Алгоритмика.
