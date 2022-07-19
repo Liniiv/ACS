@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+##Информатика. Алгоритмика. 5-9 классы. Информатика. 10-11 классы
 
-You can use the [editor on GitHub](https://github.com/Liniiv/ACS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Программа "Информатика - алгоритмика" для 5-9классов](https://drive.google.com/file/d/1QNI_fr_gyAHeWWaVig9yL3kA7HJHKqV6/view)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+5 класс. Информатика. Алгоритмика.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[6 класс. Информатика. Алгоритмика.](https://lihomanenko.blogspot.com/p/6.html)
 
-```markdown
-Syntax highlighted code block
+[7 класс. Информатика. Алгоритмика.](https://lihomanenko.blogspot.com/p/7.html)
 
-# Header 1
-## Header 2
-### Header 3
+[8 класс. Информатика. Алгоритмика.](https://lihomanenko.blogspot.com/p/8.html)
 
-- Bulleted
-- List
+[9 класс. Информатика. Алгоритмика.](https://lihomanenko.blogspot.com/p/9.html)
 
-1. Numbered
-2. List
+[10 класс. Информатика.](https://lihomanenko.blogspot.com/p/10.html)
 
-**Bold** and _Italic_ and `Code` text
+[11 класс. Информатика.](https://lihomanenko.blogspot.com/p/11.html)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Требования к выпускнику 9 класса. Выдержка из ФГОС](https://lihomanenko.blogspot.com/p/9_11.html)
 
-### Jekyll Themes
+При составлении вариантов заданий использовались материалы авторов учебников и следующие открытые источники:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Liniiv/ACS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+http://fipi.ru/, http://kpolyakov.spb.ru/, https://sdamgia.ru/, https://olymp.ifmo.ru/
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ИДИОМА](https://lihomanenko.blogspot.com/p/orodha-ya-matamanio-ya-idiotic.html)
